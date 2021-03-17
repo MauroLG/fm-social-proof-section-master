@@ -167,7 +167,7 @@ h6 {
 
 @media (min-width: 1000px) {
   .main-container {
-    width: 100vw;
+    width: 1440px;
     padding: 10rem 15rem;
     background-image: url(images/bg-pattern-top-desktop.svg),
       url(images/bg-pattern-bottom-desktop.svg);
@@ -182,7 +182,7 @@ h6 {
 
   .title {
     text-align: left;
-    width: 40%;
+    width: 45%;
     min-width: 300px;
     margin-right: 2rem;
   }
@@ -244,7 +244,7 @@ h6 {
   .reviews {
     display: flex;
     justify-content: space-between;
-    height: 300px;
+    height: 270px;
     min-width: 655px;
   }
 
@@ -287,7 +287,7 @@ h6 {
   }
 }
 
-@media (max-width: 1300px) {
+/* @media (max-width: 1300px) {
   #rev-1 {
     align-self: flex-start;
   }
@@ -307,4 +307,4 @@ h6 {
   .review__user-profile {
     margin-bottom: 1rem;
   }
-}
+} */
